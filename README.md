@@ -1,6 +1,6 @@
 # eqt-meq-implementation
 
-Automatic data cleansing, annotations, and training in implementing EQTransformer deep learning for microearthquake automatic phase picking.
+This module covers automatic data cleansing, annotation, and training for implementing the EQTransformer deep learning model in automatic microearthquake phase picking.
 
 This module covers the detailed process of:
 - Microearthquake data cleansing process.
