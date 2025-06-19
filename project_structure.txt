@@ -1,0 +1,9 @@
+REPORT_AUTO_PICKING_WITH_AI_rev.pdf
+associator2NLL.py
+data_prediction.ipynb
+data_preparation_for_training.ipynb
+data_training.ipynb
+xcorr_picking_refinement/crossX.ipynb
+xcorr_picking_refinement/crossx_dataset_builder.py
+xcorr_picking_refinement/xcorr.hdf5
+xcorr_picking_refinement/xcorr.py
